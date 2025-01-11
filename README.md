@@ -1,2 +1,3 @@
 # first
-demo , my first git repo
+demo , my first git repo....
+Author - myself
